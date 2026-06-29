@@ -34,7 +34,7 @@ Transformo datos en decisiones de negocio. Me especializo en el análisis de inf
 
 ---
 
-### 📍 Concepción, Chile · Disponible para nuevas oportunidades
+### 📍 Chile · Disponible para nuevas oportunidades
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Alarcón-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/bryan-alarcon-sepulveda10)
 [![Email](https://img.shields.io/badge/Email-bryanalarco10%40gmail.com-D14836?style=flat&logo=gmail)](mailto:bryanalarco10@gmail.com)
