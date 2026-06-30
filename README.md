@@ -22,7 +22,7 @@ Transformo datos en decisiones de negocio. Me especializo en el análisis de inf
 |---|---|---|
 | [🚲 Análisis Cyclistic](https://github.com/gdarx/Caso-Cyclistic) | SQL · Tableau | Análisis de +5.5M registros para convertir usuarios ocasionales en suscriptores recurrentes |
 | [📡 Fuga de Clientes Telcom](https://github.com/gdarx/Fuga-de-clientes-Telcom) | Python · Power BI · DAX | Identificación de focos críticos de deserción con recomendaciones comerciales basadas en datos |
-
+| [📱 Análisis de Precios WOM — Cyber Days](https://github.com/gdarx/Analisis-de-Precios-WOM-Cyber-Days-2026) | Python · API · Power BI · DAX | Pipeline de extracción vía API, consolidación de 5 períodos y dashboard de 3 páginas. Hallazgo clave: el 70% del catálogo no bajó de precio durante el Cyber Days |
 ---
 
 ### 🎓 Formación y certificaciones
